@@ -59,7 +59,7 @@ paginate = 5
 
 ##### The Spinning Globe
 
-`showglobe =  true`
+`showglobe = true`
 
 Set this to `false` and the spinning globe in the sidebar will not be rendered.
 
@@ -72,17 +72,6 @@ Copy your site's icon file to the `static` folder of your site. Delete this para
 ##### Analytics
 
 In order to remain compatible with Hugo v0.14, the analytics shortcode is specified in the site params.
-
-##### Social Links
-
-```toml
-github = "https://github.com/alexurquhart"
-twitter = "https://twitter.com/alexanderurq"
-linkedin = "https://www.linkedin.com/profile/view?id=339355941"
-email = "alexurquhart@gmail.com"
-```
-
-These social settings set the icon links in the sidebar. If you don't want to have a certain icon or link show up, simply remove it.
 
 ##### Sidebar Profile Picture
 
