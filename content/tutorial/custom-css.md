@@ -8,4 +8,4 @@ title = "Putting Drill for Distance Control"
 +++
 Set up four balls and different distances from the hole: 5, 10, 15 and 20 feet.
 
-[pexels-photo-54123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260](https://images.pexels.com/photos/54123/pexels-photo-54123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260 "pexels-photo-54123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")[pexels-photo-54123.jpeg?](https://images.pexels.com/photos/54123/pexels-photo-54123.jpeg? "pexels-photo-54123.jpeg?")
+![](https://res.cloudinary.com/demo/image/fetch/w_150,h_150,c_thumb,g_face,r_20/https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tiger_Woods_2018.jpg/220px-Tiger_Woods_2018.jpg)
