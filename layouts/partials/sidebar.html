@@ -13,6 +13,7 @@
 		{{ if isset .Site.Params "profilepic" }}
 			<img id="profile-pic" src="{{ .Site.BaseURL }}/{{ .Site.Params.profilepic }}" alt="My Picture" class="img-circle center-block">
 		{{ end }}
+		<!--
 		<div id="social" class="text-center">
 			{{ range .Site.Params.socialbuttons }}
 				<a href="{{ .url }}"><i class="fa fa-{{ .faicon }} fa-2x"></i></a>
@@ -20,6 +21,7 @@
 
 			{{ if isset .Site.Params "email" }}<a href="mailto:{{.Site.Params.email}}"><i class="fa fa-envelope-o fa-2x"></i></a>{{ end }}
 		</div>
+		-->
 		<div id="links" class="text-center">
 			{{ $url := .Site.BaseURL }}
 			{{ range .Site.Params.navlinks }}
