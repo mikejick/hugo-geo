@@ -19,5 +19,6 @@ Greatest Instructor Award
 
 School Life
 
-{{% tip %}} Tip Body {{% /tip %}}
-![PGA Professional](/uploads/pagepro.png)
+![](/uploads/pagepro.png)
+
+<p>test</p>
