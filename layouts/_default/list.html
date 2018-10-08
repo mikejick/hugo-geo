@@ -6,11 +6,16 @@
 	<header>
 		<h1>{{ .Title }}</a></h1>
 	</header>
-<ul>
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") }}
+{{ range $paginator.Pages }}
+	{{ .Render "summary"}}
+{{ end }}
+<!-<ul>
+	
 	{{ range where .Site.RegularPages "Section" "posts" }}
 	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 	{{ end }}
-</ul>
+</ul>-->
 </article>
 
 {{ partial "footer.html" . }}
