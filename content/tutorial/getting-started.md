@@ -1,12 +1,13 @@
 +++
 date = "2016-03-04"
-title = "Getting Started With hugo-geo"
-tags = ["tutorial", "series", "hugo"]
 description = "A tutorial on how to use and customize the Hugo-Geo theme"
-index = true
+draft = true
 highlight = true
-+++
+index = true
+tags = ["tutorial", "series", "hugo"]
+title = "Getting Started With hugo-geo"
 
++++
 Setting up and configuring hugo-geo is as simple as changing a few values in your site `config.toml`. Lets look at this example site's config and go over what
 each of hugo-geo's site `[params]` do.
 
