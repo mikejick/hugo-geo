@@ -7,15 +7,12 @@
 		<h1>Blog</h1>
 	</header>
 	<h3>Recent Posts</h3>
-	<h4>1:24 PM</h4>
-	<ul>
-	{{ range .Params.tags }}
-	    <li>
-		<a href="/tags/{{ . | urlize }}">{{ . }}</a>
-		- {{ $title }}
-	    </li>
-	{{ end }}
-	</ul>
+	<h4>1:26 PM</h4>
+<ul>
+{{ range where .Pages "Section" "post" }}
+	<li>{{ .Content }}</li>
+{{ end }}
+</ul>
 
 <div class="text-center center-block">
 	{{ template "_internal/pagination.html" . }}
