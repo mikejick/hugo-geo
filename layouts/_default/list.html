@@ -7,7 +7,7 @@
 		<h1>{{ .Title }}</a></h1>
 	</header>
 <ul>
-	{{ range .Data.Pages }}
+	{{ range where .Site.RegularPages "Section" "posts" }}
 	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 	{{ end }}
 </ul>
