@@ -20,5 +20,3 @@ Greatest Instructor Award
 School Life
 
 ![](/uploads/pagepro.png)
-
-<p>test</p>
