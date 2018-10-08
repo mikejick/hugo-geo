@@ -7,8 +7,9 @@
 		<h1>Blog</h1>
 	</header>
 	<h3>Recent Posts</h3>
-	{{ range where .Site.Pages "Section" "blog" }}
-		<li><a href="{{ .Permalink }}">{{ .Title }}</a><br /><span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></li>
+
+	{{ range where .Site.RegularPages "Section" "posts" }}
+		{{ .Render "summary"}}
 	{{ end }}
 
 
