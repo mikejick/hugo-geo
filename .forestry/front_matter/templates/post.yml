@@ -1,0 +1,20 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: Post Title
+  config:
+    required: true
+- type: datetime
+  label: Date
+  name: date
+  description: Date to show as published
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Enter tags to help organize your content. Be careful. Don't do [ball,
+    balls, pro v1, golf ball, etc], this will be a mess. Stick with Equipment.
