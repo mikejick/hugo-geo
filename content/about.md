@@ -19,4 +19,4 @@ Greatest Instructor Award
 
 School Life
 
-![](/uploads/pagepro.png)
+![](static/img/pagepro.png)
