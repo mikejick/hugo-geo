@@ -8,7 +8,7 @@ title = "Dead Men Don't Wear Plaid"
 
 > Ever have a great plan and then change it all mid swing? This simple mantra can help.
 
-![Dead Men Don't Wear Plaid](/uploads/dmdwp.jpg)
+![](static/uploads/dmdwp.jpg)
 
 Your pre-shot routine may start great. On the tee with driver in hand- you plan, visualize, align, stance, swing... thoughts, ideas, tweaks, changes- and a bad shot.
 
