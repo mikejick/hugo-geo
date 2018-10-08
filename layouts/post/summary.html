@@ -1,1 +1,4 @@
-{{ range where .Site.RegularPages "Section" "posts" }}
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") }}
+{{ range $paginator.Pages }}
+	{{ .Render "summary"}}
+{{ end }}
