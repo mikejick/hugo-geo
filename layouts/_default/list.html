@@ -2,22 +2,16 @@
 {{ partial "nav.html" . }}
 
 <article>
-
 	<header>
-		<h1>Blog</h1>
+		<h1>{{ .Title }}</a></h1>
 	</header>
 	<h3>Recent Posts</h3>
 	<h4>1:26 PM</h4>
 <ul>
-{{ range where .Pages "Section" "post" }}
-	<li>{{ .Content }}</li>
-{{ end }}
+	{{ range .Data.Pages }}
+	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+	{{ end }}
 </ul>
-
-<div class="text-center center-block">
-	{{ template "_internal/pagination.html" . }}
-</div>
-	
 </article>
 
 {{ partial "footer.html" . }}
