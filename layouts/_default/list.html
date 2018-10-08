@@ -2,20 +2,20 @@
 {{ partial "nav.html" . }}
 
 <article>
-	<p>_default/list.html</p><br>
+
 	<header>
-		<h1>{{ .Title }}</a></h1>
+		<h1>Blog</h1>
 	</header>
-{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") }}
-{{ range $paginator.Pages }}
-	{{ .Render "summary"}}
-{{ end }}
-<!--<ul>
-	
-	{{ range where .Site.RegularPages "Section" "posts" }}
-	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+	<h3>Recent Posts</h3>
+	{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") 2 }}
+	{{ range $paginator.Pages }}
+		{{ .Render "summary"}}
 	{{ end }}
-</ul>-->
+
+<div class="text-center center-block">
+	{{ template "_internal/pagination.html" . }}
+</div>
+	
 </article>
 
 {{ partial "footer.html" . }}
