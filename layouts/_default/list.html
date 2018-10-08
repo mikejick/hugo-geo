@@ -7,12 +7,12 @@
 		<h1>Blog</h1>
 	</header>
 	<h3>Recent Posts</h3>
-	<h4>1:17 PM</h4>
+	<h4>1:20 PM</h4>
 
-	{{ range where .Site.RegularPages "Section" "posts" }}
-		{{ .Render "summary"}}
-	{{ end }}
-
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") 2 }}
+{{ range $paginator.Pages }}
+	{{ .Render "summary"}}
+{{ end }}
 
 
 <div class="text-center center-block">
