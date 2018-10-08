@@ -4,7 +4,6 @@ tags = ["blog", "tips", "drive"]
 title = "Dead Men Don't Wear Plaid"
 
 +++
-### Dead Men Don't Wear Plaid
 
 > Ever have a great plan and then change it all mid swing? This simple mantra can help.
 
