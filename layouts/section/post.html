@@ -4,10 +4,10 @@
 <article>
 	<p>section/post.html</p><br>
 	<header>
-		<h1>{{ .Title }}</a></h1>
+		<h1>Blog</h1>
 	</header>
 
-  {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") }}
+  {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") 3 }}
   {{ range $paginator.Pages }}
   	{{ .Render "summary"}}
   {{ end }}
