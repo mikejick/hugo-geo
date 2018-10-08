@@ -5639,7 +5639,7 @@ a:hover, a:active {
   background-image: -webkit-radial-gradient(circle, #0e5d8b, #021b2a);
   background-image: radial-gradient(circle, #0e5d8b, #021b2a);
   background-repeat: no-repeat;
-  border-top: 5px solid #06778b
+  border-top: 5px solid #36426a
 }
 #menu-content h1 a {
   color: #81bbdc
@@ -5667,17 +5667,19 @@ a:hover, a:active {
   font-family: 'Oswald', sans-serif;
   color: #81bbdc;
   letter-spacing: 2px;
-  margin-left: 10px
+  margin-left: 10px;
+  border-bottom: 1px solid rgba(129,187,220,.3);
 }
 #links a:hover, #links a:focus, #social a:hover, #social a:focus, #menu-content h1 a:hover, #menu-content h1 a:focus {
   text-decoration: none;
-  color: #bddbed
+  color: #bddbed;
+  border-bottom: 1px solid rgba(129,187,220,.6);
 }
 #links .active {
   color: #fff
 }
 #content {
-  border-top: 5px solid #576e02;
+  border-top: 5px solid #ccd;
   overflow-y: auto
 }
 .vertical-align {
@@ -5743,4 +5745,12 @@ pre {
 }
 pre {
   background-color: white
+}
+.sticky-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #ccd;
 }
