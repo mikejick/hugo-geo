@@ -6,4 +6,9 @@ title = "Contact"
 +++
 Shoot me an email; I will respond as quick as I can.
 
-<iframe frameborder="0" style="height:500px;width:99%;border:none;" src='https://forms.zohopublic.com/mike81/form/ContactForm/formperma/siRG9BhGZB0Vh9uBOfQiykT4qidE_e8mgiy3G6fPxPo'></iframe>
+<form method="POST" action="https://formspree.io/website@mikejick.com">  
+  <input name="email" placeholder="Your email" type="email">  
+  <textarea name="name" placeholder="Your name"></textarea>  
+  <textarea name="message" placeholder="Your message"></textarea>  
+  <button type="submit">Send</button>  
+</form>  
