@@ -5628,7 +5628,11 @@ body {
 
   }
   #menu {
-  height: auto;
+  height: 200px;
+  }
+  #menu-content{
+   height: 160px;
+   top: 20px;
   }
 }
 a:hover, a:active {
