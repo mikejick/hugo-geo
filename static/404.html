@@ -1,0 +1,30 @@
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+
+<header>
+		<h1>Sorry, I can't find what you are looking for.</h1>
+    <p>Maybe these resources will help</p>
+</header>
+
+<h3>Popular Tags</h3>
+<ul>
+{{ range $.Site.Taxonomies.tags.ByCount }}
+{{ if gt .Count 1 }}
+  <li>
+    <a href="/tags/{{ .Name }}"> {{ .Name }} <small>({{ .Count }})</small></a>
+  </li>
+{{ end }}
+{{end}}
+</ul>
+
+<h3>Recent Posts</h3>
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") 2 }}
+{{ range $paginator.Pages }}
+	{{ .Render "summary"}}
+{{ end }}
+
+<div class="text-center center-block">
+	{{ template "_internal/pagination.html" . }}
+</div>
+
+{{ partial "footer.html" . }}
