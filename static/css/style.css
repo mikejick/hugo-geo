@@ -5769,3 +5769,6 @@ pre {
   font-size: .8em;
   color: #c3ced5;
 }
+#content img {
+	max-width: 100%;
+}
