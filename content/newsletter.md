@@ -6,4 +6,6 @@ title = "Newsletter"
 +++
 Want a better golf game without even leaving your inbox? Keep dreaming. But it will provide entertaining and informative reading conveniently sent to your email on a periodic basis.
 
-    mikejick.com does not harvest user data. mikejick.com is not a mega-corp, we (I) will not spam you or send you unsolicited offers. Unsubscribe anytime.
+    mikejick.com does not harvest user data. 
+    mikejick.com is not a mega-corp, we (I) will not spam you or send you unsolicited offers. 
+    Unsubscribe anytime.
