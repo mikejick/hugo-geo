@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Mike Jick | PGA Golf Professional</title>
+    <link>https://mikejick.com/tags/blog/</link>
+    <description>Recent content in Blog on Mike Jick | PGA Golf Professional</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2015 09:32:45 -0400</lastBuildDate>
+    
+	<atom:link href="https://mikejick.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compelling Copy</title>
+      <link>https://mikejick.com/post/copywriting-formula/</link>
+      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      
+      <guid>https://mikejick.com/post/copywriting-formula/</guid>
+      <description>Do you ever wish that there was an easy formula for writing persuasive (web) copy?
+The AIDA Copywriting Formula AIDA stands for:
+ Attention: Grab their attention Interest: Interest them with interesting facts / uses / stats Desire: Make them come to the conclusion, “I WANT THIS” Action: Tell them exactly how to buy, and what will happen next.  Learn More</description>
+    </item>
+    
+    <item>
+      <title>Dead Men Don&#39;t Wear Plaid</title>
+      <link>https://mikejick.com/post/dead-men/</link>
+      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      
+      <guid>https://mikejick.com/post/dead-men/</guid>
+      <description>Ever have a great plan and then change it all mid swing? This simple mantra can help.
+ Your pre-shot routine may start great. On the tee with driver in hand- you plan, visualize, align, stance, swing&amp;hellip; thoughts, ideas, tweaks, changes- and a bad shot.
+more coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://mikejick.com/post/welcome/</link>
+      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      
+      <guid>https://mikejick.com/post/welcome/</guid>
+      <description>Welcome to my site.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mike Jick | PGA Golf Professional</title>
+    <link>https://mikejick.com/tags/</link>
+    <description>Recent content in Tags on Mike Jick | PGA Golf Professional</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2015 09:32:45 -0400</lastBuildDate>
+    
+	<atom:link href="https://mikejick.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://mikejick.com/tags/blog/</link>
+      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      
+      <guid>https://mikejick.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delete</title>
+      <link>https://mikejick.com/tags/delete/</link>
+      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      
+      <guid>https://mikejick.com/tags/delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drill</title>
+      <link>https://mikejick.com/tags/drill/</link>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejick.com/tags/drill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drive</title>
+      <link>https://mikejick.com/tags/drive/</link>
+      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      
+      <guid>https://mikejick.com/tags/drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting</title>
+      <link>https://mikejick.com/tags/putting/</link>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejick.com/tags/putting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://mikejick.com/tags/tips/</link>
+      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      
+      <guid>https://mikejick.com/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
