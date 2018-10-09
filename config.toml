@@ -37,22 +37,22 @@ paginate = 5
 	# Each of these are optional
 	[[params.socialbuttons]]
 	faicon = "fa-envelope"
-	url = "/contact/"
+	url = "contact/"
 	[[params.socialbuttons]]
 	faicon = "fa-rss"
-	url = "/newsletter/"
-	[[params.socialbuttons]]
-	faicon = "github"
-	url = "https://github.com/"
-	[[params.socialbuttons]]
-	faicon = "twitter"
-	url = "https://twitter.com/"
-	[[params.socialbuttons]]
-	faicon = "linkedin"
-	url = "https://linkedin.com"
-	[[params.socialbuttons]]
-	faicon = "google-plus"
-	url = "https://plus.google.com/+YourID"
+	url = "newsletter/"
+	# [[params.socialbuttons]]
+	# faicon = "github"
+	# url = "https://github.com/"
+	# [[params.socialbuttons]]
+	# faicon = "twitter"
+	# url = "https://twitter.com/"
+	# [[params.socialbuttons]]
+	# faicon = "linkedin"
+	# url = "https://linkedin.com"
+	# [[params.socialbuttons]]
+	# faicon = "google-plus"
+	# url = "https://plus.google.com/+YourID"
 
 	# Nav links below the profile picture
 	[[params.navlinks]]
