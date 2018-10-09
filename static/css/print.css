@@ -1,5 +1,5 @@
 html {
-  html { overflow: hidden; }
+  { overflow: hidden !important; }
 }
 body {
   margin:0;
@@ -19,4 +19,5 @@ display: none;
 #content {
   width: 100%;
   border: 0;
+  overflow: hidden !important; 
 }
