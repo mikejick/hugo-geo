@@ -1,14 +1,3 @@
-![logo](https://github.com/alexurquhart/hugo-geo/blob/master/exampleSite/static/img/logo.png?raw=true)
-
-A responsive blog theme I've developed for use on my personal website. Suitable for desktop and mobile. Designed for `tutorial` and `post` sections.
-
-![screenshot](https://raw.githubusercontent.com/alexurquhart/hugo-geo/master/images/tn.png)
-
-#[Example Site Demo](https://alexurquhart.github.io/hugo-geo/)
-
-I also use it on my [personal website](https://alexurquhart.com)
-
-
 ## Dependencies
 - Hugo v0.14 or better
 - LESS if you wish to compile the custom CSS
@@ -43,9 +32,6 @@ paginate = 5
 	tutorial = "tutorials"
 
 [params]
-	# Render the rotating globe in the sidebar
-	showglobe = true
-
 	# Include favicon
 	favicon = "favicon.ico"
  	
@@ -53,7 +39,7 @@ paginate = 5
 	analytics = "SHORT-CODE-HERE"
 
 	# Email (optional)
-	email = "alexurquhart@gmail.com"
+	email = ""
 	
 	# Header Title for the main page
 	header = "What I'm Thinking"
@@ -62,17 +48,17 @@ paginate = 5
 	profilepic = "img/smugmug.jpg"
 	
 	# Title/subtitle for the sidebar
-	title = "ALEX URQUHART"
-	subtitle = "GEOMATICS PROFESSIONAL"
+	title = ""
+	subtitle = ""
 	
 	# Social buttons for sidebar
 	# Each of these are optional
 	[[params.socialbuttons]]
 	faicon = "github"
-	url = "https://github.com/alexurquhart"
+	url = "https://github.com/"
 	[[params.socialbuttons]]
 	faicon = "twitter"
-	url = "https://twitter.com/alexanderurq"
+	url = "https://twitter.com/"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
 	url = "https://linkedin.com"
@@ -93,16 +79,3 @@ paginate = 5
 	name = "Tutorials"
 	url = "tutorial/"
 ```
-
-## My TODO List (currently working on v2.0)
-- Clean up and simplify the CSS
-- Make Disqus comments optional on a per-page basis
-- Previous/next post buttons on each page
-- Improve list pages
-- Add a sidebar on large screens with links to related posts
-- Add next/previous links at the end of posts/tutorials
-- Add breadcrumbs to top of page
-
-
-#### Credits
-World graphic in logo by <a href="http://www.greepit.com">Sarfraz Shoukat</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
