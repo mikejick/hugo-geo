@@ -1,3 +1,6 @@
+html {
+  html { overflow: hidden; }
+}
 body {
   margin:0;
   padding:0;
@@ -14,5 +17,6 @@ a:link, a:visited {background: transparent; color:#222; text-decoration:none;}
 display: none;
 }
 #content {
-width: 100%;
+  width: 100%;
+  border: 0;
 }
