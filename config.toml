@@ -36,6 +36,12 @@ paginate = 5
 	# Social buttons for sidebar
 	# Each of these are optional
 	[[params.socialbuttons]]
+	faicon = "fa-envelope"
+	url = "/contact/"
+	[[params.socialbuttons]]
+	faicon = "fa-rss"
+	url = "/newsletter/"
+	[[params.socialbuttons]]
 	faicon = "github"
 	url = "https://github.com/"
 	[[params.socialbuttons]]
