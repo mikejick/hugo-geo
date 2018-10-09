@@ -19,4 +19,4 @@ Greatest Instructor Award
 
 School of Life
 
-![](static/img/pagepro.png)
+![](/img/pagepro.png)
