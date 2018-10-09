@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Mike Jick | PGA Golf Professional"
 disqusShortname = ""
 paginate = 5
+permalink /404.html
 
 [taxonomies]
 	tag = "tags"
