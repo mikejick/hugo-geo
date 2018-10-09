@@ -4,4 +4,4 @@ tags = []
 title = "Contact"
 
 +++
-Shoot me an email, I will respond as quick as I can.
+Shoot me an email; I will respond as quick as I can.
