@@ -1,0 +1,19 @@
+{{ partial "head.html" . }} 
+{{ partial "nav.html" . }} 
+<header> 
+        <!-- Check if header is not set or empty --> 
+        {{ if (not (isset .Site.Params "header")) | or (eq .Site.Params.header "") }} 
+                <h1>What I'm Thinking</h1> 
+        {{ else }} 
+                <h1>{{ .Site.Params.header }}</h1> 
+        {{ end }} 
+</header> 
+<h3>Recent Posts</h3> 
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "post") 2 }} 
+{{ range $paginator.Pages }} 
+        {{ .Render "summary"}} 
+{{ end }} 
+<div class="text-center center-block"> 
+        {{ template "_internal/pagination.html" . }} 
+</div> 
+{{ partial "footer.html" . }} 
