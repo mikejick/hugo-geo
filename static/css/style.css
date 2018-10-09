@@ -5762,12 +5762,15 @@ pre {
 .sticky-footer {
   position: absolute;
   bottom: 0;
+  left: 0;
   width: 100%;
   height: 20px;
   line-height: 20px;
-  background-color: #021722;
   font-size: .8em;
-  color: #c3ced5;
+  color: #0c5a87;
+}
+.sticky-footer a {
+  color: #0c5a87;
 }
 #content img {
 	max-width: 100%;
