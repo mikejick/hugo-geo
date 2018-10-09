@@ -1,20 +1,67 @@
 
-<header>
-		<h1>Sorry, I can't find what you are looking for.</h1>
-    <p>Maybe these resources will help</p>
-</header>
 
-<h3>Popular Tags</h3>
-<ul>
-{{ range $.Site.Taxonomies.tags.ByCount }}
-{{ if gt .Count 1 }}
-  <li>
-    <a href="/tags/{{ .Name }}"> {{ .Name }} <small>({{ .Count }})</small></a>
-  </li>
-{{ end }}
-{{end}}
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# website: http://ogp.me/ns/website#">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="description" content="">
+    <meta property="og:title" content="Drill">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="https://mikejick.com/tags/drill/">
+    <meta property="og:site_name" content="Mike Jick | PGA Golf Professional">
+    <meta name="generator" content="Hugo 0.49" />
+    <title>Drill &middot; Mike Jick | PGA Golf Professional</title>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://mikejick.com/css/style.css">
+    <link rel="stylesheet" href="https://mikejick.com/css/print.css" type="text/css" media="print" />
+    <link href="https://mikejick.com/index.xml" rel="alternate" type="application/rss+xml" title="Mike Jick | PGA Golf Professional" />
+    <link rel="icon" href="https://mikejick.com/mj-icon.png" />   
+    
+</head>
+<body>
 
-<h3>Recent Posts</h3>
+
+<div class="container-fluid">
+    <div class="row">
+        <div id="menu" class="col-xs-12 col-sm-4 col-md-3">
+            <div id="menu-content">
+            <h1 class="text-center"><a href="https://mikejick.com/">Mike Jick</a></h1>    
+            <small class="text-center center-block">PGA Professional</small>
+            <img id="profile-pic" src="https://mikejick.com//img/mikejick-logo-min.jpg" alt="My Picture" class="hidden-xs img-circle center-block">
+                <div id="social" class="text-center">
+                        <a href="/contact/"><i class="fa fa-envelope fa-2x"></i></a>
+                        <a href="/newsletter/"><i class="fa fa-rss fa-2x"></i></a>
+                </div>
+        
+        <div id="links" class="text-center">
+                <a href="https://mikejick.com/about/">About</a>
+                <a href="https://mikejick.com/post/">Blog</a>
+                <a href="https://mikejick.com/tutorial/">Tutorials</a>
+        </div>
+    </div>
+  <div class="sticky-footer hidden-xs text-center center-block">
+    <span class="float-right">© Copywrite 2018<a href="https://grccp-p3d10kqa.preview.forestry.io/"> mikejick.com</a></span>
+  </div>
+</div>
+        <div id="content" class="col-xs-12 col-sm-8 col-md-9">
+            <div class="row">
+                <div id="post" class="col-sm-offset-1 col-sm-10 col-md-10 col-lg-8">
+                    <h2>I am so sorry!, I can't find what you are looking for.</h2>
+                    <p>Maybe this funny meme will help.</p>
+                    <img src="https://media.golfdigest.com/photos/55f852994759c60c08243592/master/w_1200,h_800,c_limit/Golf-Meme-Club-Pro.jpg" alt="Club Pro" >
+                    <p>You can also try searching the site.</p>
+                    <iframe src="https://duckduckgo.com/search.html?site=mikejick.com&prefill=Search" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
+                </div>
+            </div>
+        </div>
+
+  </div>
+
+</body>
+</html>
+
+
 
 
