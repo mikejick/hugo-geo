@@ -5,11 +5,11 @@ title = "Bio"
 +++
 ## Experience
 
-30 years experience as a PGA Pro
+<div class="row"><div class="col-sm-8"><p>30 years experience as a PGA Pro </p></div><div class="col-sm-4"><p>1988-2018</p></div></div>  
 
 ## Victories
 
-2004 British Open - 2nd Place
+<div class="row"><div class="col-sm-8"><p> British Open - 2nd Place</p></div><div class="col-sm-4"><p>2004</p></div></div> 
 
 ## Awards
 
@@ -17,6 +17,6 @@ Greatest Instructor Award
 
 ## Education
 
-School Life
+School of Life
 
 ![](static/img/pagepro.png)
