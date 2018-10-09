@@ -19,5 +19,6 @@ fields:
   description: Enter tags to help organize your content. Be careful. Don't do [ball,
     balls, pro v1, golf ball, etc], this will be a mess. Stick with Equipment.
 pages:
+- content/post/html.html
 - content/post/ryder-cup-recap.md
 - content/post/using-tags-to-organize-the-site.md
