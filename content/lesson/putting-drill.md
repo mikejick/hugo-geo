@@ -1,6 +1,6 @@
 +++
 date = "2016-03-05"
-description = "Try 4 Distances, 2 are harder than the others."
+description = "Try 4 Distances, 2 distances are harder than the others."
 index = true
 tags = ["Putting", "Drill"]
 title = "Putting Drill for Distance Control"
