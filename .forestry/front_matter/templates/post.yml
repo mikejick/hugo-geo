@@ -20,7 +20,6 @@ fields:
     balls, pro v1, golf ball, etc], this will be a mess. Stick with Equipment.
 pages:
 - content/lesson/new-lesson.md
-- content/lesson/another-lesson.md
 - content/newsletter.md
 - content/post/using-tags-to-organize-the-site.md
 - content/post/ryder-cup-recap.md
