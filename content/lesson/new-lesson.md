@@ -4,6 +4,6 @@ tags = []
 title = "Back to Basics"
 
 +++
-I normally advise golfers to hit the ball longer and straighter. Combine this technique with making more putts and your scores will drop.
+I normally advise golfers to hit the ball longer and straighter. Combine this technique with making more putts and your scores will drop. Guaranteed!
 
 ![](/img/Importance of non-verbal communication thumbs-up.jpg)
