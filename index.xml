@@ -6,10 +6,19 @@
     <description>Recent content on Mike Jick | PGA Golf Professional</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 15:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 10:41:35 -0600</lastBuildDate>
     
 	<atom:link href="https://mikejick.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Back to Basics</title>
+      <link>https://mikejick.com/lesson/new-lesson/</link>
+      <pubDate>Fri, 12 Oct 2018 10:41:35 -0600</pubDate>
+      
+      <guid>https://mikejick.com/lesson/new-lesson/</guid>
+      <description>I normally advise golfers to hit the ball longer and straighter. Combine this technique with making more putts and your scores will drop.</description>
+    </item>
     
     <item>
       <title>Newsletter</title>
@@ -83,15 +92,6 @@ Before you start tagging posts think about the topics you will be writing about 
       
       <guid>https://mikejick.com/lesson/putting-drill/</guid>
       <description>Set up four balls at different distances from the hole: 5, 10, 15 and 20 feet.</description>
-    </item>
-    
-    <item>
-      <title>Putting Drill for Distance Control</title>
-      <link>https://mikejick.com/tutorial/putting-drill/</link>
-      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikejick.com/tutorial/putting-drill/</guid>
-      <description>Set up four balls and different distances from the hole: 5, 10, 15 and 20 feet.</description>
     </item>
     
     <item>

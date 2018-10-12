@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mikejick.com/lesson/new-lesson/</loc>
+    <lastmod>2018-10-12T10:41:35-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mikejick.com/newsletter/</loc>
     <lastmod>2018-10-09T15:07:06+00:00</lastmod>
   </url>
@@ -34,11 +39,6 @@
   
   <url>
     <loc>https://mikejick.com/lesson/putting-drill/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mikejick.com/tutorial/putting-drill/</loc>
     <lastmod>2016-03-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +83,7 @@
   
   <url>
     <loc>https://mikejick.com/lesson/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-12T10:41:35-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,7 +94,7 @@
   
   <url>
     <loc>https://mikejick.com/</loc>
-    <lastmod>2018-10-09T15:07:06+00:00</lastmod>
+    <lastmod>2018-10-12T10:41:35-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,12 +124,6 @@
   <url>
     <loc>https://mikejick.com/tags/tips/</loc>
     <lastmod>2015-07-28T09:32:45-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mikejick.com/tutorial/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
