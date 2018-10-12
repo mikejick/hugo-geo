@@ -8,4 +8,4 @@ Justin Rose has emerged as a fantastic host at this week's British Masters, but 
 
 Watch: https://twitter.com/EuropeanTour/status/1050737061961973765
 
-More incredible, though, is that Rose's splendid play isn't even the best driver-off-the-deck shot on that hole this week. On Thursday, Andy Sullivan let the Big Dog eat from the fairway and came within inches of an albatross.
+More incredible, though, is that Rose's splendid play isn't even the best driver-off-the-deck shot on that hole this week. On Thursday, Andy Sullivan let the Big Dog eat from the fairway and came within inches of an albatross!
