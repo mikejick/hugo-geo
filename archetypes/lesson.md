@@ -1,9 +1,9 @@
 +++
-draft = true
+draft = false
 tags = []
 description = ""
-title = "Lesson"
-highlight = false
+title = "Page Title"
+highlight = true
 css = []
 scripts = []
 index = true
