@@ -7,7 +7,7 @@ paginate = 5
 
 [taxonomies]
 	tag = "tags"
-	tutorial = "tutorials"
+	lesson = "lessons"
 	post = "posts"
 
 [params]
@@ -64,5 +64,5 @@ paginate = 5
 	url = "post/"
 
 	[[params.navlinks]]
-	name = "Tutorials"
-	url = "tutorial/"
+	name = "Lessons"
+	url = "lesson/"
