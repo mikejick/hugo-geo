@@ -6,5 +6,5 @@ title = "Lesson"
 highlight = false
 css = []
 scripts = []
-index = false
+index = true
 +++
