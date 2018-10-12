@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mikejick.com/lesson/another-lesson-again/</loc>
-    <lastmod>2018-10-12T11:10:34-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mikejick.com/lesson/new-lesson/</loc>
     <lastmod>2018-10-12T10:41:35-06:00</lastmod>
   </url>
@@ -88,7 +83,7 @@
   
   <url>
     <loc>https://mikejick.com/lesson/</loc>
-    <lastmod>2018-10-12T11:10:34-06:00</lastmod>
+    <lastmod>2018-10-12T10:41:35-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +94,7 @@
   
   <url>
     <loc>https://mikejick.com/</loc>
-    <lastmod>2018-10-12T11:10:34-06:00</lastmod>
+    <lastmod>2018-10-12T10:41:35-06:00</lastmod>
     <priority>0</priority>
   </url>
   
