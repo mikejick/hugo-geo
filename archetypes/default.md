@@ -6,4 +6,5 @@ title = "Page Title"
 highlight = true
 css = []
 scripts = []
+index = true
 +++
