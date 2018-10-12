@@ -1,5 +1,6 @@
 +++
 date = "2018-10-12T11:21:52-06:00"
+index = true
 tags = []
 title = "Justin Rose"
 
