@@ -18,7 +18,7 @@ paginate = 5
 	favicon = "mj-icon.png"
 
 	# Google Analytics
-	analytics = "SHORT-CODE-HERE"
+	analytics = ""
 
 	# Email (optional)
 	email = ""
