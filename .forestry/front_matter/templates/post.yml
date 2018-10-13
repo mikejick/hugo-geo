@@ -23,6 +23,7 @@ fields:
   label: Index
   default: true
 pages:
+- content/post/things.md
 - content/lesson/justin-rose.md
 - content/lesson/new-lesson.md
 - content/newsletter.md
