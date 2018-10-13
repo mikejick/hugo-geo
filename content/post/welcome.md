@@ -4,4 +4,4 @@ tags = ["blog"]
 title = "Welcome!"
 
 +++
-Welcome to my site. Thanks for stopping by.
+Welcome to my site. Thanks for stopping by!
